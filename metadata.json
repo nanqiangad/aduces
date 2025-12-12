@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio (Nano Banana)",
+  "description": "Upload a photo to generate 9 distinct professional photography styles using the Gemini Nano Banana model.",
+  "requestFramePermissions": []
+}
